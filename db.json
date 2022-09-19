@@ -1,0 +1,96 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Teacher1",
+      "isChecked": true,
+      "student": [
+        {
+          "title1": "student1",
+          "isChecked": true
+        },
+        {
+          "title1": "student2",
+          "isChecked": false
+        },
+        {
+          "title1": "student3",
+          "isChecked": false
+        },
+        {
+          "title1": "student4",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Teacher2",
+      "isChecked": false,
+      "student": [
+        {
+          "title1": "student1",
+          "isChecked": false
+        },
+        {
+          "title1": "student2",
+          "isChecked": false
+        },
+        {
+          "title1": "student3",
+          "isChecked": false
+        },
+        {
+          "title1": "student4",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Teacher3",
+      "isChecked": false,
+      "student": [
+        {
+          "title1": "student1",
+          "isChecked": false
+        },
+        {
+          "title1": "student2",
+          "isChecked": false
+        },
+        {
+          "title1": "student3",
+          "isChecked": false
+        },
+        {
+          "title1": "student4",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Teacher4",
+      "isChecked": false,
+      "student": [
+        {
+          "title1": "student1",
+          "isChecked": false
+        },
+        {
+          "title1": "student2",
+          "isChecked": false
+        },
+        {
+          "title1": "student3",
+          "isChecked": false
+        },
+        {
+          "title1": "student4",
+          "isChecked": false
+        }
+      ]
+    }
+  ]
+}

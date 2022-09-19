@@ -1,0 +1,10 @@
+#main{
+    height: 350px;
+    width: 370px;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
